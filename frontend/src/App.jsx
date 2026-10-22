@@ -15,7 +15,6 @@ const App = () => {
   return (
     <div >
       
-      
           <Routes>
             {/* Public Routes */}
             <Route path="/" element={<LandingPage />} />

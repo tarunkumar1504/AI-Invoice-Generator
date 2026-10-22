@@ -7,14 +7,14 @@ import Button from '../ui/Button'
 
 const Header = () => {
 
-    const [isScrolled , setIsScrolled] = useState(false)
+    const [isScrolled , setIsScrolled] = useState(true)
     const [isMenuopen , setIsMenuopen] = useState(false)
 
     const isAuthenticated =true
-    const user = {name:'Shyam', email:'tarun@gmail.com'}
+    const user = {name:'Shyam', email:'shyam@gmail.com'}
     const logout = ()=>{}
 
-    const [profileDropDownOption , setProfileDropDownOption] = useState(true)
+    const [profileDropDownOption , setProfileDropDownOption] = useState(false)
 
     const navigate = useNavigate();
     
@@ -37,7 +37,7 @@ const Header = () => {
                 <div className='w-8 h-8 rounded-md bg-blue-900 flex items-center justify-center'>
                     <FileText className="w-4 h-4 text-white" />
                 </div>
-                <span className='text-xl font-bold text-gray-900'>AI Invoice App</span>
+                <span className='text-xl font-bold text-gray-900'>Bill Pilot</span>
             </div>
 
             <div className='hidden lg:flex lg:items-center lg:space-x-8'>
