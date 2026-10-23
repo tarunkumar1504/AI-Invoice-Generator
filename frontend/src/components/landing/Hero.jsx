@@ -12,7 +12,7 @@ const Hero = () => {
             <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 sm:py-24 lg:py-32">
                 <div className="text-center max-w-4xl mx-auto">
 
-                    <h1 className='text-3xl sm:text-4xl lg:text-6xl font-extrabold text-blue-950 leading-tight mb-6'>BillPilot - The Smarter Way to Manage Your Invoices</h1>
+                    <h1 className='text-3xl sm:text-4xl lg:text-6xl font-extrabold text-blue-950 leading-tight mb-6'>PilotInvoice - The Smarter Way to Manage Your Invoices</h1>
 
 
                     <p className="text-base sm:text-xl text-gray-700 leading-relaxed mb-8 mx-auto max-w-3xl">Create professional invoices in seconds, automate payment reminders, and gain smart financial insights — all in one place with BillPilot. </p>

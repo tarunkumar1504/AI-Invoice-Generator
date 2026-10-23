@@ -32,7 +32,7 @@ export const FEATURES = [
 export const TESTIMONIALS = [
   {
     quote:
-      "Bill Pilot makes managing my freelance payments so much easier. I can create detailed invoices in minutes and focus more on growing my business instead of paperwork!",
+      " Pilot Invoice makes managing my freelance payments so much easier. I can create detailed invoices in minutes and focus more on growing my business instead of paperwork!",
     author: "Rahul Sharma",
     title: "Freelance Web Developer",
     avatar: "https://placehold.co/100x100/000000/ffffff?text=RS",
@@ -46,14 +46,14 @@ export const TESTIMONIALS = [
   },
   {
     quote:
-      "As a content creator, I work with multiple clients every month. Bill Pilot helps me keep my billing simple, accurate, and professional without wasting hours on manual calculations.",
+      "As a content creator, I work with multiple clients every month.Pilot Invoice helps me keep my billing simple, accurate, and professional without wasting hours on manual calculations.",
     author: "Karan Bedi",
     title: "Independent Content Creator",
     avatar: "https://placehold.co/100x100/000000/ffffff?text=KB",
   },
   {
     quote:
-      "I needed a straightforward invoicing solution for my growing business, and Bill Pilot fits perfectly. The clean interface and quick invoice creation make my daily work much smoother!",
+      "I needed a straightforward invoicing solution for my growing business, and Pilot Invoice fits perfectly. The clean interface and quick invoice creation make my daily work much smoother!",
     author: "Neha Kapoor",
     title: "Small Business Entrepreneur",
     avatar: "https://placehold.co/100x100/000000/ffffff?text=NK",

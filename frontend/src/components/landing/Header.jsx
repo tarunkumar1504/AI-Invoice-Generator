@@ -37,7 +37,7 @@ const Header = () => {
                 <div className='w-8 h-8 rounded-md bg-blue-900 flex items-center justify-center'>
                     <FileText className="w-4 h-4 text-white" />
                 </div>
-                <span className='text-xl font-bold text-gray-900'>Bill Pilot</span>
+                <span className='text-xl font-bold text-gray-900'>Pilot Invoice</span>
             </div>
 
             <div className='hidden lg:flex lg:items-center lg:space-x-8'>
